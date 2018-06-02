@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraRunTimePermission</string>
+    <string name="take_picture">Click icon to take picture</string>
+    <string name="image_path">Path of Image</string>
+</resources>
